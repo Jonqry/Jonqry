@@ -30,9 +30,9 @@ Sou responsável pela **área do corretor** (empreendimentos, leads, clientes e 
 🔗 [Site publicado](https://placebrokers-frontend.vercel.app) · [Repositório](https://github.com/Arthurms-dev/PI4-Place-Brokers-Integrador-FrontEnd)
 
 ### 💰 CashFlow — controle de gastos residenciais
-Aplicação full-stack com API em .NET 8 e front-end em React com TypeScript, com foco em regras de negócio, persistência de dados e arquitetura limpa.
+Aplicação full-stack com API em .NET 10 e front-end em React com TypeScript, com foco em regras de negócio, persistência de dados e arquitetura limpa.
 
-`C# .NET 8` `React` `TypeScript` `SQLite`
+`C# .NET 10` `React` `TypeScript` `SQLite`
 
 🔗 [Repositório](https://github.com/Jonqry/cashflow-fullstack)
 
@@ -42,6 +42,8 @@ App de portfólio feito com React Native e Expo.
 🔗 [Repositório](https://github.com/Jonqry/Portfolio)
 
 ## 📫 Contato
+
+🌐 **Portfólio:** [joaovictorvarela.vercel.app](https://joaovictorvarela.vercel.app)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaovictorvarela)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaovictorvarela321@gmail.com)
