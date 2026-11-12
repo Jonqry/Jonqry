@@ -29,6 +29,13 @@ Sou responsável pela **área do corretor** (empreendimentos, leads, clientes e 
 
 🔗 [Site publicado](https://placebrokers-frontend.vercel.app) · [Repositório](https://github.com/Arthurms-dev/PI4-Place-Brokers-Integrador-FrontEnd)
 
+### 🏠 Simulador de Financiamento Imobiliário — SAC × PRICE
+Projeto solo, feito a partir de uma pergunta que todo cliente faz: *"SAC ou PRICE, qual vale mais a pena?"* Compara os dois sistemas com seguros, CET e tabela de amortização, calcula o imóvel máximo que o cliente pode comprar, sugere a taxa pela renda (Minha Casa, Minha Vida), simula amortização com FGTS e evolução de obra, e gera o resumo para mandar no WhatsApp. Mais de 250 testes automatizados e testes de ponta a ponta com Playwright.
+
+`React` `TypeScript` `Vite` `Tailwind` `Recharts` `Vitest` `Playwright`
+
+🔗 [Testar online](https://simulador-financiamento-blush.vercel.app) · [Repositório](https://github.com/Jonqry/simulador-financiamento)
+
 ### 💰 CashFlow — controle de gastos residenciais
 Aplicação full-stack com API em .NET 10 e front-end em React com TypeScript, com foco em regras de negócio, persistência de dados e arquitetura limpa.
 
@@ -37,9 +44,9 @@ Aplicação full-stack com API em .NET 10 e front-end em React com TypeScript, c
 🔗 [Repositório](https://github.com/Jonqry/cashflow-fullstack)
 
 ### 📱 Portfólio mobile
-App de portfólio feito com React Native e Expo.
+App de portfólio acadêmico feito com React Native e Expo, com cinco abas e dados de uma API publicada.
 
-🔗 [Repositório](https://github.com/Jonqry/Portfolio)
+🔗 [Repositório](https://github.com/Jonqry/curriculo-portfolio-expo)
 
 ## 📫 Contato
 
