@@ -1,6 +1,6 @@
 # Olá, eu sou o João Victor 👋
 
-Desenvolvedor front-end júnior em Recife – PE, estudante de **Sistemas para Internet na Unicap** (conclusão em julho/2027).
+Estudante de **Sistemas para Internet na Unicap** (conclusão em julho/2027) e corretor de imóveis em Recife - PE. Desenvolvo com React e TypeScript, estou indo para o back-end e o full-stack, e tenho interesse em segurança de aplicações. Busco estágio ou vaga júnior em Recife.
 
 Também trabalho como **corretor de imóveis**, então conheço de perto o dia a dia de leads, atendimento e CRM, e uso isso para construir sistemas que fazem sentido para quem vai usar.
 
