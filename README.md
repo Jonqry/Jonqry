@@ -16,9 +16,9 @@ React, TypeScript, Vitest, Playwright. [Testar online](https://simulador-financi
 
 ### [CashFlow](https://github.com/Jonqry/cashflow-fullstack)
 
-Controle de gastos da casa. API em C# com .NET 10 que valida as regras de negócio, e front-end em React com TypeScript.
+Controle de gastos da casa. API em C# com .NET 10 que valida as regras de negócio, e front-end em React com TypeScript. Protegi a API com base no OWASP API Security Top 10: login com JWT, senha salva só como hash, validação de entrada (que fechou uma falha de mass assignment), limite de tentativas e headers de segurança, com testes de integração.
 
-C#, .NET, React, TypeScript, SQLite.
+C#, .NET, React, TypeScript, SQLite, JWT, xUnit.
 
 ### [Place Brokers](https://github.com/Arthurms-dev/PI4-Place-Brokers-Integrador-FrontEnd)
 
