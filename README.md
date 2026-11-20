@@ -1,14 +1,14 @@
 # João Victor Varela
 
-Estudante de Sistemas para Internet na Unicap (conclusão em julho de 2027) e corretor de imóveis em Recife. Desenvolvo com React, TypeScript e C# com .NET, e estou indo para o back-end. A área que mais me interessa é segurança de aplicações.
+Estudante de Sistemas para Internet na Unicap (conclusão em julho de 2027), técnico em multimídia pelo NAVE Recife e corretor de imóveis em Recife. Desenvolvo com React, TypeScript e C# com .NET, e estou indo para o back-end. A área que mais me interessa é segurança de aplicações.
 
-Busco estágio ou vaga júnior em desenvolvimento, em Recife.
+Busco estágio em desenvolvimento, em Recife.
 
 ## Projetos
 
 ### [Simulador de Financiamento](https://github.com/Jonqry/simulador-financiamento)
 
-Compara SAC e PRICE com seguros, CET e tabela de amortização, calcula o imóvel máximo que o cliente pode comprar e simula FGTS e evolução de obra. Projeto solo, com mais de 250 testes automatizados e testes de ponta a ponta com Playwright.
+Compara SAC e PRICE com seguros, CET e tabela de amortização, calcula o imóvel máximo que o cliente pode comprar e simula FGTS e evolução de obra. Projeto solo, com mais de 390 testes automatizados e testes de ponta a ponta com Playwright.
 
 React, TypeScript, Vitest, Playwright. [Testar online](https://simulador-financiamento-blush.vercel.app)
 
