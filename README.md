@@ -26,9 +26,11 @@ Plataforma de uma imobiliária real de Recife, feita em equipe de 5 no Projeto I
 
 React, Tailwind, Node.js, Supabase. [Site publicado](https://placebrokers-frontend.vercel.app)
 
-### [Currículo Express](https://github.com/Jonqry/curriculo-express)
+### [Coletor de taxas](https://github.com/Jonqry/coletor-taxas)
 
-API REST de currículo com Node.js, Express e PostgreSQL. [Testar a API](https://curriculo-express-eta.vercel.app)
+Confere toda semana as taxas que o simulador usa (TR, Selic, IPCA e a tabela do Minha Casa, Minha Vida) nas fontes oficiais e abre uma issue no GitHub quando alguma muda.
+
+Python, Requests, BeautifulSoup, Playwright, GitHub Actions.
 
 ## Contato
 
