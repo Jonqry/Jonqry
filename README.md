@@ -26,6 +26,12 @@ Plataforma de uma imobiliária real de Recife, feita em equipe de 5 no Projeto I
 
 React, Tailwind, Node.js, Supabase. [Site publicado](https://placebrokers-frontend.vercel.app)
 
+<p>
+  <img src="docs/place-menu.jpg" alt="Menu da área do corretor" width="220">
+  <img src="docs/place-empreendimentos.jpg" alt="Lista de empreendimentos com filtros" width="220">
+  <img src="docs/place-leads.jpg" alt="Leads do corretor com botões de ligar e WhatsApp" width="220">
+</p>
+
 ### [Coletor de taxas](https://github.com/Jonqry/coletor-taxas)
 
 Confere toda semana as taxas que o simulador usa (TR, Selic, IPCA e a tabela do Minha Casa, Minha Vida) nas fontes oficiais e abre uma issue no GitHub quando alguma muda.
